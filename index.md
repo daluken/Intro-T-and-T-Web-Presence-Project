@@ -33,7 +33,6 @@ Briefly Introduce academic interests
 
 ### Follow Me
 
-- [LinkedIn] (http:)
 - [LinkedIn] (https://www.linkedin.com/in/debra-luken)
 
 
