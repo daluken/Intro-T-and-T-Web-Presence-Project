@@ -2,10 +2,15 @@
 layout: default
 title: Debra Luken - Academic Portfolio
 ---
-![Debra Luken on UCF Main Campus](/assets/professional-bio.JPG)
+<img src="image.png" width="200" height="100"> ![Debra Luken on UCF Main Campus](/assets/professional-bio.JPG)
+
 # Debra Luken
 
 ## Instructional Designer, Center for Distributed Learning, Division of Digital Learning, University of Central Florida  
+
+### Experience
+
+
 
 ### About me
 Briefly Introduce academic interests
