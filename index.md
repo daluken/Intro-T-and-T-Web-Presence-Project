@@ -1,6 +1,7 @@
 
 # Debra Luken
 
-## Instructional Designer  
-## Center for Distributed Learning, Division of Digital Learning, University of Central Florida  
+## Instructional Designer<br>  
+Center for Distributed Learning, Division of Digital Learning, University of Central Florida  
+
 
