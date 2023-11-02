@@ -9,6 +9,7 @@ title: Debra Luken - Academic Portfolio
 
 ## Instructional Designer
 ## Center for Distributed Learning, Division of Digital Learning, University of Central Florida  
+[Debra Luken Curriculum Vitae (Draft)](DLUKEN-CV Draft1.pdf)
 
 ### About me
 Debra earned a Master’s degree in Instructional Design and Technology from UCF in 2013 and a Graduate Certificate in e-Learning from UCF in 2016. In 2013 she joined  UCF’s Environmental Health and Safety department, helping to manage the safety training program, working with subject matter experts to design and build the university’s online and face-to-face safety training courses, ensuring compliance with federal, state, and local regulations. Wanting to spread her wings, Debra joined the Instructional Design team at the Center for Distributed Learning (CDL) at UCF in August 2018.
@@ -35,6 +36,8 @@ In  her free time Debra crafts, reads, and cooks. As a Florida native she loves 
 - Using Learner Personas to Humanize Online Courses
 - Online Learning in Higher Education
 - Professional and Personal Development in Higher Education
+
+
 
 
 ### Contact

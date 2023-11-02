@@ -5,7 +5,7 @@ title: Scholarship
 
 # Presentations and Publications
 
-## Conference Preentations 
+## Conference Presentations 
 
 - Gabbard, A. & **Luken, D**. (2023, October). Creating an Internal Department-Wide Professional Development Conference. Presented at *Annual Summit for Women in eLearning*, New Orleans, LA.
 - **Luken, D**. (2023, October). Using Escape Rooms for Student Engagement. *Annual Summit for Women in eLearning*, New Orleans, LA.
