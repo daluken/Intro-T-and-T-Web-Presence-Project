@@ -38,7 +38,7 @@ In  her free time Debra crafts, reads, and cooks. As a Florida native she loves 
 
 
 ### Contact
-- Sned me a message [Email](mailto: debra.luken@ucf.edu)
+- Send me a message [Email](mailto: debra.luken@ucf.edu)
 
 ### Follow Me
 
