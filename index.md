@@ -19,9 +19,9 @@ Briefly Introduce academic interests
 
 ### Research Interests
 - Gamification and Game-Based Learning in Online Courses
-- Learner Personas to Humanize Online Courses
+- Using Learner Personas to Humanize Online Courses
 - Online Learning in Higher Education
-- Professional and Personal development in Higher Education
+- Professional and Personal Development in Higher Education
 
 ### Conference Preentations 
 
