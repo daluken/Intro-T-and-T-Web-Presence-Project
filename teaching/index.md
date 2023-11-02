@@ -3,12 +3,16 @@ layout: default
 title: Teaching
 ---
 
-# Teaching Experience
+# Presentations and Publications
 
-## Course 1
-- Description
-- Semester Taught
+## Conference Preentations 
 
-## Course 2
-- Description
-- Semester Taught
+1. 
+2.  
+3.  
+
+## Publications
+
+1. TopKit
+2. Topkit
+3. FDLA in progress
