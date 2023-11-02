@@ -4,6 +4,7 @@ title: Debra Luken - Academic Portfolio
 ---
 ![Debra Luken on UCF Main Campus](professional-bio.JPG)
 *Debra on UCF Main Campus.*
+
 <img src=“professional-bio.JPG” width=200”> 
 
 # Debra Luken
