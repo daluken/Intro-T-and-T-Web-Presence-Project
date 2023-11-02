@@ -22,7 +22,7 @@ In  her free time Debra crafts, reads, and cooks. As a Florida native she loves 
 - Bachelor of Science in Advertising with Minor in Art History, University of Florida, Gainesville, FL
 
 ### Certificates
--Professional Certificate in E-Learning, University of Central Florida – Orlando, FL
+- Professional Certificate in E-Learning, University of Central Florida – Orlando, FL
 
 ### Experience
 

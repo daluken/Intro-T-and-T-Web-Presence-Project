@@ -7,12 +7,20 @@ title: Scholarship
 
 ## Conference Preentations 
 
-1. 
-2.  
-3.  
+- Gabbard, A. & Luken, D. (2023, October). Creating an Internal Department-Wide Professional Development Conference. Presented at * *Annual Summit for Women in eLearning* *, New Orleans, LA.
+- Luken, D. Using Escape Rooms for Student Engagement. Annual Summit for Women in eLearning (IFWE), New Orleans, LA, Oct. 26 – oct. 28, 2023.
+- Luken, D. Showcasing a Digital Escape Room for Student Engagement. United States Distance Learning Association (USDLA) National Conference Poster Session. Orlando, FL, July 17-20, 2023.
+- Luken, D. & Sugar, A. Engaging Students through an Asynchronous Digital Escape Room. Florida Online Innovation Summit, UCF, March 30, 2023.
+- DiLiberto, S., Luken, D. & Sugar, A. Creating a Digital Escape Room to Increase Student Engagement in Cultural Literacy. Florida Distance Learning Association (FDLA/FAMTE) Virtual Conference: Navigating Through the Chaos towards a New Normal, February 1-3, 2023. 
+- deNoyelles, A., Luken, D. & Stahl, N. Humanizing Communication with Online Students. TopKit Workshop (Lightning Session), March 2022.
+- Luken, D. & Stahl, N. Using Online Personas to Promote Faculty Empathy and Reflection During COVID-19. Florida Distance Learning Association (FDLA), Virtual Conference Poster Session. Sept. 29 – Oct. 1, 2021.
+- Luken, D. & Stahl, N. Using Online Personas to Promote Faculty Empathy and Reflection During COVID-19. International Forum for Women in eLearning (IFWE), New Orleans, LA, Nov. 30 – Dec. 3, 2021.
+- Gabbard, A. & Luken, D. Growing a Professional Development Program from the Ground Up. International Forum for Women in eLearning (IFWE), New Orleans, LA, Nov. 30 – Dec. 3, 2021.
+- Luken, D. & Paradiso, J. Involving Instructional Designers in Campus-Wide Affordability Initiatives. UCF TopKit Workshop, March 2019.
 
 ### Publications
 
-1. TopKit
-2. Topkit
-3. FDLA in progress
+- Luken, D. (2023). TOPkit Digest: [Using Gamification to Create Engagement](https://t.e2ma.net/webview/smw35z/b94c1c970380d7b1575568cbff321b2d) released on September 21, 2023.
+- DiLiberto, S., Luken, D. & Sugar, A. (in review) Creating a Digital Escape Room to Increase Student Engagement in Cultural Literacy. Submitted to Florida Distance Learning Association Journal. April 2023.  
+- Stahl, N.., Luken, D. & deNoyelles, A. (2021). Incorporate online student personas to promote faculty empathy and reflection. In A. deNoyelles, A. Albrecht, S. Bauer, & S. Wyatt (Eds.), Teaching Online Pedagogical Repository. Orlando, FL: University of Central Florida Center for Distributed Learning. https://topr.online.ucf.edu/incorporate-online-student-personas-to-promote-faculty-empathy-and-reflection/.  
+- Luken, D. (2019). TOPkit Digest: [TOPkit Digest: Incorporating New Instructional Technologies into the Learning Environment](https://t.e2ma.net/webview/smw35z/b94c1c970380d7b1575568cbff321b2d) released on May 8, 2019.  
