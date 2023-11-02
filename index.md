@@ -2,7 +2,7 @@
 layout: default
 title: Debra Luken - Academic Portfolio
 ---
- ![Debra Luken on UCF Main Campus] (/assets/professional-bio.JPG")  
+! [Debra Luken on UCF Main Campus] ("/assets/professional-bio.JPG")  
 *Debra on UCF Main Campus.*
 
 
