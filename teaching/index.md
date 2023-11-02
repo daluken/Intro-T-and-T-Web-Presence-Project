@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching
+title: Scholarship
 ---
 
 # Presentations and Publications
@@ -11,7 +11,7 @@ title: Teaching
 2.  
 3.  
 
-## Publications
+### Publications
 
 1. TopKit
 2. Topkit
