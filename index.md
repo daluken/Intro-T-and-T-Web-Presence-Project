@@ -18,16 +18,16 @@ In  her free time Debra crafts, reads, and cooks. As a Florida native she loves 
 
 ### Education
 
-- Master of Arts in Instructional Design and Technology, University of Central Florida – Orlando, FL  
-- Bachelor of Science in Advertising with Minor in Art History, University of Florida - Gainesville, FL
+- Master of Arts in Instructional Design and Technology, University of Central Florida, Orlando, FL  
+- Bachelor of Science in Advertising with Minor in Art History, University of Florida, Gainesville, FL
 
-#### Certificates
+### Certificates
 -Professional Certificate in E-Learning, University of Central Florida – Orlando, FL
 
 ### Experience
 
-- Assistant Instructional Designer,Center for Distributed Learning, University of Central Florida, August 2018 – Present
-- Training Coordinator/Instructional Designer, Environmental Health and Safety, University of Central Florida, February 2013 – August 2018
+- Assistant Instructional Designer,Center for Distributed Learning, University of Central Florida, August 2018 to Present
+- Training Coordinator/Instructional Designer, Environmental Health and Safety, University of Central Florida, February 2013 to August 2018
   
 ### Research Interests
 - Gamification and Game-Based Learning in Online Courses
@@ -38,7 +38,7 @@ In  her free time Debra crafts, reads, and cooks. As a Florida native she loves 
 
 
 ### Contact
-- Send me a message [Email](mailto: debra.luken@ucf.edu)
+- Send me a message [Email](mailto: debra.luken@ucf.edu).
 
 ### Follow Me
 
